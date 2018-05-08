@@ -1,7 +1,7 @@
 # keep_multi_lists
 * Title       : For each in two lists
 * Version     : 1.0
-* Requires    : Specman {17.04..}
+* Requires    : Specman 
 * Modified    : May 2018
 * Description :
 
